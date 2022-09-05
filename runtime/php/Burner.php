@@ -1,4 +1,4 @@
-<?php
+
 
   /**
    * Demonstrates a simple DOS attack on a target phone number(s).
